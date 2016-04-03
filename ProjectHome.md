@@ -1,0 +1,1 @@
+This project holds the source code for the self-balancing robot described in my blog at http://www.hessmer.org/blog/
